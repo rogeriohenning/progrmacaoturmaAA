@@ -1,0 +1,16 @@
+.cabecalho{
+    background: #97F813;
+    color: white;
+}
+.logo{
+    width: 80px;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+.listaCabecalho{
+    display: flex;
+}
+.item{
+    font-size: 20px;
+}
