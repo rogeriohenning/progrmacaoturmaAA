@@ -10,7 +10,18 @@
 }
 .listaCabecalho{
     display: flex;
+    position: relative;
+    left: 300px;
 }
 .item{
     font-size: 20px;
+    margin-left: 60px;
+}
+
+
+.notebook{
+    background-image: linear-gradient(#97F813, #ffffff);
+}
+.pcfoto{
+    padding: 90px;
 }
