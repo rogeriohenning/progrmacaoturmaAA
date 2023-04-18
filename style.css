@@ -1,3 +1,7 @@
+body{
+    font-family: sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 .cabecalho{
     background: #97F813;
     color: white;
@@ -24,4 +28,26 @@
 }
 .pcfoto{
     padding: 90px;
+}
+
+.Secao2{
+    background: linear-gradient(#bff771, #ffffff);
+}
+.tituloprodutos{
+    font-size: 40px;
+    font-family: Verdana;
+    color: white;
+    text-align: center;
+}
+
+.imgprodutos{
+    width: 180px;
+}
+
+.produtos1{
+    margin: 60px;
+}
+.todososprodutos{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
 }
