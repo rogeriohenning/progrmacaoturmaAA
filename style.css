@@ -3,7 +3,7 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .cabecalho{
-    background: #97F813;
+    background: linear-gradient(#97F813,#ffffff);
     color: white;
 }
 .logo{
