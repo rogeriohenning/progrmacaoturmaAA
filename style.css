@@ -31,7 +31,7 @@ body{
 }
 .pcfoto{
     padding: 90px;
-    display: flex;
+    display: block;
     align-items: center;
 }
 
