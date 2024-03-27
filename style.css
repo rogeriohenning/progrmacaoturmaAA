@@ -22,6 +22,9 @@ body{
     margin-left: 60px;
 }
 
+.nome-site{
+    margin: 10px;
+}
 
 .notebook{
     background-image: linear-gradient(#97F813, #ffffff);
