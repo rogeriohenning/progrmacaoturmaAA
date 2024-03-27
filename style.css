@@ -32,6 +32,7 @@ body{
 .pcfoto{
     padding: 90px;
     display: flex;
+    align-items: center;
 }
 
 .Secao2{
